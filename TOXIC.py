@@ -960,5 +960,5 @@ def approval():
 	except Exception as x:
 		sys.exit()
 try:
-    approval()
+    menu()
 except Exception as e:exit()
